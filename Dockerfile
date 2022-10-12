@@ -8,7 +8,7 @@
 # noVNC port: 6901, connect via http://<host-ip>:6901/?password=<vnc-password>
 ############################################################
 
-FROM ubuntu:16.04
+FROM ubuntu:22.10
 MAINTAINER "Jitesh Sojitra <jiteshsojitra@gmail.com>"
 
 # Environment variables
