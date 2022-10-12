@@ -37,7 +37,7 @@ apt-get -qq install -y apt-utils \
 	net-tools \
 	locales \
 	bzip2 \
-	python-numpy \
+	python3-pip \
 	libnss-wrapper \
 	gettext
 
